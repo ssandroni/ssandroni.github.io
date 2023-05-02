@@ -1,0 +1,6 @@
+@charset "utf-8";
+/* CSS Document */
+ol {
+    text-align: center;
+	list-style-position: inside;
+}
